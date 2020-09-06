@@ -5,6 +5,7 @@ Purpose of this report is to identify Oahu temperature trends for June and Decem
 
 # Results
 The analysis entailed using temperature data from January 2010 through December 2017.  The temperature data was captured from nine different weather stations.  See list below list for station activity.
+
 ![](resources/surfs_up_stations.png)
 
 
