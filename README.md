@@ -8,6 +8,8 @@ The analysis entailed using temperature data from January 2010 through December 
 ![](resources/surfs_up_stations.png)
 
 
+
+
 3 major points from the 2 deliverables.  use images
 key differences between june and december weather
 ### Difference 1.  There is a difference of 183 less data points in December than June.
