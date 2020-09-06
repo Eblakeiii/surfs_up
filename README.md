@@ -9,7 +9,7 @@ Purpose
 key differences between june and december weather
 
                                                   
-tobs
+#### tobs
 count	1700.000000
 mean	74.944118
 std	3.257417
