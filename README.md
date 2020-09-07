@@ -19,9 +19,9 @@ The same analysis was performed on all the December temperatures.  See table bel
 
 The statistics from both time periods were then compared.  The major points are bulleted below.
 
-### Finding 1.  There is a difference of 183 less data points in December than June.
-### Finding 2.  
-### Finding 3. 
+#### Finding 1.  There is a difference of 183 less data points in December than June.
+#### Finding 2.  
+#### Finding 3. 
 describe the key differences in weather
 
 
