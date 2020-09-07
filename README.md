@@ -29,7 +29,7 @@ The statistics from both time periods were then compared.  The primary differenc
 # Summary
 Based on the statistics for June and for December, there is very little variation in the temperature, when the entire island is taken as a whole.  However, given the island of Oahu has micro-climates, additional analysis needs to be performed on a station level.  Ideally, select the station nearest the potential store location.  By doing so, the information gleaned will offer more accurate temperature trends for that part of the island.  
 
-Additional analysis is recommended taking into acount both station location and precipation.  Because although the temperature is warm, it could still be raining.   
+Additional analysis is recommended taking into account both station location and precipitation.  Because although the temperature is warm, it could still be raining.   
 
 ##### Additional Query 1
 Identify station ID nearest the future location of the surf shop.  Using that station ID as the filter, perform statistical analysis of the temperature covering all years.
