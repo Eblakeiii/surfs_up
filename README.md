@@ -4,18 +4,24 @@
 Purpose of this report is to identify Oahu temperature trends for June and December.  The analysis will help determine if the weather will be conducive to having sustainable year-round income.
 
 # Results
-The analysis entailed using temperature data from January 2010 through December 2017.  The temperature data was captured from nine different weather stations.  See list below list for station activity.
+The analysis entailed using temperature data from January 2010 through December 2017.  The temperature data was captured from nine different weather stations.  See list below list for station and associated activity.
 
 ![](resources/surfs_up_stations.png)
 
+From the entire station data, temperatures for June, for all years, were analyzed.  See below table for the statistics for June.
+
+![](resources/surfs_up_jun_stats.png)
 
 
+The same analysis was performed on all the December temperatures.  See table below for the statistics for December.
 
-3 major points from the 2 deliverables.  use images
-key differences between june and december weather
-### Difference 1.  There is a difference of 183 less data points in December than June.
-### Difference 2.  
+![](resources/surfs_up_dec_stats.png)
 
+The statistics from both time periods were then compared.  The major points are bulleted below.
+
+### Finding 1.  There is a difference of 183 less data points in December than June.
+### Finding 2.  
+### Finding 3. 
 describe the key differences in weather
 
 
