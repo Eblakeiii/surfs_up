@@ -26,13 +26,15 @@ The statistics from both time periods were then compared.  The primary differenc
 * Finding 3. The standard deviation for both time periods were very close - a difference of less than 0.5 degree.
 
 
-
 # Summary
-Recommendation for further analysis: summary of results and 2 addditional queries
-### 1. look at preciptation along with temperature.  
+Based on the statistics for June and for December, there is very little variation in the temperature, when the entire island is taken as a whole.  However, given the island of Oahu has micro-climates, additional analysis needs to be performed on a station level.  Ideally, select the station nearest the potential store location.  By doing so, the information gleaned will offer more accurate temperature trends for that part of the island.  
 
+Additional analysis is recommended taking into acount both station location and precipation.  Because although the temperature is warm, it could still be raining.   
 
-### 2. Look at temp/precip for the station closest to store location 
-Oahu has micro climates depending on location on the island
-find location where it's the warmest with least amount of rain
+##### Additional Query 1
+Identify station ID nearest the future location of the surf shop.  Using that station ID as the filter, perform statistical analysis of the temperature covering all years.
+
+##### Additional Query 2
+Building on query 1, add in the precipitation data.  By including precipitation information, the information returned will give the investor a clearer picture of the weather conditions.
+
 
